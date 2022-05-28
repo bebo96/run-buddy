@@ -130,3 +130,8 @@ section {
     font-size: 16px;
   }
   /* HERO STYLES END */
+
+  section div img{
+      width: 200px;
+      height: 200px;
+    }
